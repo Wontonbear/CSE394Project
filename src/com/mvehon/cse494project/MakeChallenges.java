@@ -36,7 +36,7 @@ public class MakeChallenges {
 			Log.e("ERR", e.getMessage());
 		}
 	
-	//test comment
+	//test
 
 	
 	}
